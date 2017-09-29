@@ -1,2 +1,2 @@
-# webhook-api-doc
-The apiary documentation for hail-taxi webhook server API
+# pumpkin-webhook-api-doc
+The apiary documentation for Pumpkin webhook server API
